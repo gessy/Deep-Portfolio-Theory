@@ -1,5 +1,7 @@
 # About the paper: Deep Portfolio Theory and this repo
 
+https://towardsdatascience.com/deep-learning-in-finance-9e088cb17c03
+
 *Deep Portfolio Theory* is a portfolio selection method published by J. B. Heaton, N. G. Polson, J. H. Witte from GreyMaths Inc. 
 
 Authors' codes are proprietary, so I (this github repo owner) can only try to code this notebook myself for experiment. I am not the author and is not related to the original authors. This code may not achieve satisfying results as the paper states. Maybe I misunderstand some parts from the paper, so I hope that someone can continue the research and contribute to the framework. (you are welcome to open issues.)
